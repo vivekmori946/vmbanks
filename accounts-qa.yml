@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "git accounts qa profile"
+  message: "git accounts qa profile --updated"
   contactDetails:
     name: "John Doe"
     email: "john.doe@gmail.com"
