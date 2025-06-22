@@ -1,6 +1,6 @@
 build:
   version: "1.0"
-accounts:
+loans:
   message: "git lonas qa profile"
   contactDetails:
     name: "John Doe"
