@@ -3,7 +3,7 @@ build:
 accounts:
   message: "git accounts qa profile --updated after record to class ----spring clound bus account"
   contactDetails:
-    name: "John Doe"
+    name: "John Doe Vivek"
     email: "john.doe@gmail.com"
   onCallSupport:
     - 555 555 555
