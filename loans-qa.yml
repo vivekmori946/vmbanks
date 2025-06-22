@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 loans:
-  message: "git lonas qa profile"
+  message: "git lonas qa profile --spring clound bus"
   contactDetails:
     name: "John Doe"
     email: "john.doe@gmail.com"
