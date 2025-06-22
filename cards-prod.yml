@@ -1,6 +1,6 @@
 build:
   version: "1.0"
-accounts:
+cards:
   message: "git cards prod profile"
   contactDetails:
     name: "John Doe"
