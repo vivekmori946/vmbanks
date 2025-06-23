@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "git accounts prod profile updated-----"
+  message: "git accounts prod profile updated----- hello"
   contactDetails:
     name: "John Doe"
     email: "{cipher}507689312b77cf758c54dc12c3e05c5ded7acc95697de96279a7a4444e36a878a2d668870d6501e460e677f5bbee7ae5"
